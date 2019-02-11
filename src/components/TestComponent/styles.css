@@ -1,0 +1,12 @@
+.TestComponent {
+    font-family: Arial;
+}
+
+.TestComponent__Title {
+    font-size: 24px;
+    margin: 0 0 15px;
+}
+
+.TestComponent__Content {
+    color: rgba(0,0,0,0.5);
+}
